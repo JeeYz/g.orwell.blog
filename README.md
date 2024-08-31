@@ -1,1 +1,1 @@
-# g.orwell.github.io
+# g.orwell.blog
